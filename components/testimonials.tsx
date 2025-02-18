@@ -70,7 +70,7 @@ export default function Testimonials() {
                 </div>
               </div>
               <blockquote className="text-lg text-black grow">
-                — Dr. Muhammad Sarwar, a seasoned senior scientist, plays a pivotal role in wheat research, shaping agricultural practices in Faisalabad. His extensive expertise and dedication to wheat research have led to groundbreaking innovations in crop yield and quality. Dr. Sarwar's contributions continue to drive advancements in wheat farming, ensuring food security and sustainability in the region.
+                — Dr. Muhammad Sarwar, a seasoned senior scientist, plays a pivotal role in wheat research, shaping agricultural practices in Faisalabad. His extensive expertise and dedication to wheat research have led to groundbreaking innovations in crop yield and quality. Dr. Sarwar&apos;s contributions continue to drive advancements in wheat farming, ensuring food security and sustainability in the region.
               </blockquote>
             </div>
 

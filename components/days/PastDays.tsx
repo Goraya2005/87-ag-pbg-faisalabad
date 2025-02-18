@@ -7,7 +7,9 @@ const pastEventDate = new Date("April 20, 2024");
 
 function calculateTimeDifference() {
   const now = new Date();
-  let totalMilliseconds = now - pastEventDate;
+
+  // Explicitly cast the Date objects to numbers to get the time difference in milliseconds
+  const totalMilliseconds = now.getTime() - pastEventDate.getTime();
 
   const totalSeconds = Math.floor(totalMilliseconds / 1000);
   const secondsPassed = totalSeconds % 60;

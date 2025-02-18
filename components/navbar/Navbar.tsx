@@ -1,8 +1,7 @@
 'use client'
 
-
-
 import { useState } from 'react';
+import Image from 'next/image';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -16,7 +15,7 @@ export default function Navbar() {
       <div className="container mx-auto flex justify-between items-center">
         {/* Left side logo and company name */}
         <div className="flex items-center">
-          <img className="h-8 w-8 mr-2" src="/logo.png" alt="Logo" />
+          <Image className="h-8 w-8 mr-2" src="/logo.png" alt="Logo" width={32} height={32} />
           <span className="text-white font-semibold">87-ag-Agri @ PBG - Faisalabad</span>
         </div>
 

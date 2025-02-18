@@ -20,7 +20,7 @@ export default function Events() {
                 <p className="text-lg">
                   Students of 87-ag-Agri with a Major in Plant Breeding and Genetics and
                   residents of Faisalabad are required to arrive on time. The time and venue details
-                  have been shared in the WhatsApp group "87-ag-PBG-Fsd".
+                  have been shared in the WhatsApp group &quot;87-ag-PBG-Fsd&quot;.
                 </p>
               </div>
             </div>
@@ -45,7 +45,7 @@ export default function Events() {
                   <p className="text-lg">
                     Students of 87-ag-Agri with a Major in Plant Breeding and Genetics and residents
                     of Faisalabad attended the meeting. The complete album has been shared in the
-                    WhatsApp group "87-ag-PBG-Fsd".
+                    WhatsApp group &quot;87-ag-PBG-Fsd&quot;.
                   </p>
                 </div>
               </div>
